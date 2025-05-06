@@ -2,7 +2,8 @@
 
 This repository contains Python code and figure assets supporting the paper:
 
-**"Null Structure from Cyclic Constraints in $\mathbb{C}^3$: A Minimalist Model of Directional Geometry from Algebraic Coupling"**  
+**"Null Structure from Cyclic Constraints in $\mathbb{C}^3$: 
+A Minimalist Model of Directional Geometry from Algebraic Coupling"**  
 by Patrick Hentsch
 
 If you use this material in your own work, please cite:
