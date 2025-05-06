@@ -17,21 +17,3 @@ The figures in the manuscript were generated using custom Python scripts built w
 - `numpy` for numerical computation
 
 These visualizations depict the null cone geometry, screen quotient structure, and cyclic coupling of complex coordinates as described in the paper.
-
-## Contents
-
-- `/figures/` — Exported `.png` images used in the manuscript
-- `/scripts/` — Python scripts used to generate each figure
-- `requirements.txt` — Python package dependencies
-- `LICENSE` — MIT License for code (see below)
-- `README.md` — This file
-
-## Usage
-
-To generate the figures locally:
-
-```bash
-git clone https://github.com/phentsch/HentschManifoldFigures.git
-cd HentschManifoldFigures
-pip install -r requirements.txt
-python scripts/generate_figures.py
